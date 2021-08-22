@@ -39,6 +39,10 @@ For sentencePiece the vocabulary can be loadded with the files at [vocab](models
 
 There are two clients, one written in Objective-C and the other in Swift using SwiftUI.
 
+<p align="center">
+  <img src="https://github.com/i-khalil-s/iTlajtol/blob/main/iOS/app.png?raw=true"/>
+</p>
+
 ### Cite this work
 
 [IEEEXplore](https://ieeexplore.ieee.org/document/9307780)
