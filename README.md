@@ -19,10 +19,21 @@ This work also uses two NN architectures, an [RNN](NN/RNN-Attention-Translation.
 ## Models
 
 There are several models to carry out a comparative analysis. Such models can be found on the [models](models/) folder with a `pkl` extension and its weights as a `pth` file.
+So far only the best [Transformer](models/Transformers/JW/Sentence/nch/0.625145/) is available and the first [RNN with attention](models/RNN/Axolotl/Spacy/spa/0.322177/).
+
+| Arquitecture  | Corpus    | Tokenization  | From  | To    | %BLEU|
+|----------------|------------|----------------|---------|------|---------|
+|Transformer   | JW          | SentencePiece|NCH  |SPA  | 62.5145|
+|RNN+Att        | Axolotl    | Spacy            |SPA     |NAH | 32.2177|
 
 ## Data
 
+[Transformer](models/Transformers/JW/Sentence/nch/0.625145/JW_Sentence_data.pkl) and [RNN](models/RNN/Axolotl/Spacy/spa/0.322177/Axolotl_Spaicy_es_data.pkl)
+This data contains the vocabulary and segmented pieces.
+
 ## Vocab
+
+For sentencePiece the vocabulary can be loadded with the files at [vocab](models/Transformers/JW/Sentence/nch/0.625145/vocab/tmp/), such files had to be load with SentencePiece. 
 
 ## iOS Client
 
