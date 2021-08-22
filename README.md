@@ -2,6 +2,9 @@
 
 iTlajtol is a mobile application that can translate from Nahuatl to Spanish and vice-versa.
 
+## Requerimients
+This work is based on [FastAI](https://github.com/fastai/) and uses [SentencePiece](https://github.com/google/sentencepiece). To prepare an enviroment to run this models, please install the [requirements](requirements.txt).
+---
 ## Corpus
 
 There are 2 main corpuses, first is [Axolotl](corpuses/Axolotl.csv) from [this web](https://axolotl-corpus.mx/about). And the [second one](corpuses/JW100.csv) is a webscrapping result from [JW](jw.org) using Nahuatl de la Huasteca.
