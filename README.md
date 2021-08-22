@@ -1,6 +1,6 @@
 # iTlajtol
 
-![iTlajtol](https://github.com/i-khalil-s/iTlajtol/blob/main/icon.png?raw=true)
+![iTlajtol](https://github.com/i-khalil-s/iTlajtol/blob/main/icns.png?raw=true)
 
 iTlajtol is a mobile application that can translate from Nahuatl to Spanish and vice-versa.
 
