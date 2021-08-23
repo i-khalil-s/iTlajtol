@@ -1,6 +1,8 @@
 # iTlajtol
 
-![iTlajtol](https://github.com/i-khalil-s/iTlajtol/blob/main/icns.png?raw=true)
+<p align="center">
+  <img src="https://github.com/i-khalil-s/iTlajtol/blob/main/icns.png?raw=true"/>
+</p>
 
 iTlajtol is a mobile application that can translate from Nahuatl to Spanish and vice-versa.
 
@@ -47,11 +49,46 @@ There are two clients, one written in Objective-C and the other in Swift using S
 
 [IEEEXplore](https://ieeexplore.ieee.org/document/9307780)
 
-    @INPROCEEDINGS{9307780,
-        author={Bello García, Sergio Khalil and Sánchez Lucero, Eduardo and Pedroza Méndez, Blanca Estela and Hernández Hernández, José Crispín and Bonilla Huerta, Edmundo and Ramírez Cruz, José Federico},  
-        booktitle={2020 8th International Conference in Software Engineering Research and Innovation (CONISOFT)},   
-        title={Towards the implementation of an Attention-based Neural Machine Translation with artificial pronunciation for Nahuatl as a mobile application},   
-        year={2020}, 
-        pages={235-244},  
-        doi={10.1109/CONISOFT50191.2020.00041}
+    @inproceedings{9307780,
+        Author = {S. K. {Bello García} and E. {S{\'a}nchez Lucero} and B. E. {Pedroza M{\'e}ndez} and J. C. {Hern{\'a}ndez Hern{\'a}ndez} and E. {Bonilla Huerta} and J. F. {Ramírez Cruz}},
+        Booktitle = {2020 8th International Conference in Software Engineering Research and Innovation (CONISOFT)},
+        Doi = {10.1109/CONISOFT50191.2020.00041},
+        Keywords = {Spectrogram;Decoding;Tools;Mobile handsets;Internet;Engines;Speech recognition;Nahuatl;NMT;mobile;translation;attention;machine learning;CoreML;neural network;Mel spectrogram},
+        Month = {Nov},
+        Pages = {235-244},
+        Title = {Towards the implementation of an Attention-based Neural Machine Translation with artificial pronunciation for Nahuatl as a mobile application},
+        Year = {2020},
+        Bdsk-Url-1 = {https://doi.org/10.1109/CONISOFT50191.2020.00041}
+    }
+
+    @article{springer-jcr,
+        Author = {S. K. {Bello García} and E. {S{\'a}nchez Lucero} and E. {Bonilla Huerta} and J. C. {Hern{\'a}ndez Hern{\'a}ndez} and J. F. {Ramírez Cruz} and B. E. {Pedroza M{\'e}ndez}},
+        Date-Added = {2021-08-22 17:05:11 -0500},
+        Date-Modified = {2021-08-22 17:07:42 -0500},
+        Journal = {Programming and Computer Software},
+        Keywords = {machine translation; nahuatl; attention; application; transformers},
+        Month = {Dec},
+        Number = {8},
+        Title = {Implementation of Neural Machine Translation for Nahuatl as a Web Platform: A focus on text translation},
+        Volume = {47},
+        Year = {2021}
+    }
+
+    @inbook{MICAI,
+        Author = {Sergio. Khalil. {Bello García} and Eduardo. {S{\'a}nchez Lucero} and Edmundo. {Bonilla Huerta} and Jos{\'e}. Crispín. {Hern{\'a}ndez Hern{\'a}ndez} and Jos{\'e}. Federico. {Ramírez Cruz} and Blanca. Estela. {Pedroza M{\'e}ndez}},
+        Date-Added = {2021-08-22 17:10:58 -0500},
+        Date-Modified = {2021-08-22 17:27:06 -0500},
+        Publisher = {Springer International Publishing},
+        Series = {Lecture Notes in Artificial Intelligence},
+        Title = {Nahuatl Neural Machine Translation Using Attention Based Architectures: a Comparative Analysis for RNNs and Transformers as a Mobile Application Service},
+        Year = {2021}
+    }
+
+    @article{ISP-RAS,
+        Author = {Sergio. Khalil. {Bello García} and Eduardo. {S{\'a}nchez Lucero} and Edmundo. {Bonilla Huerta} and Jos{\'e}. Federico. {Ram{\'\i}rez Cruz} and Jos{\'e}. Crispín. {Hern{\'a}ndez Hern{\'a}ndez} and Blanca. Estela. {Pedroza M{\'e}ndez}},
+        Date-Added = {2021-08-22 17:29:22 -0500},
+        Date-Modified = {2021-08-22 17:57:28 -0500},
+        Journal = {Proceedings of the Institute for System Programming of the RAS},
+        Title = {Pushing the Text Nahuatl Neural Machine Translation Boundaries as a Mobile Application},
+        Year = {2021}
     }
