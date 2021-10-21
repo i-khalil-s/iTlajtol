@@ -74,14 +74,25 @@ There are two clients, one written in Objective-C and the other in Swift using S
         Year = {2021}
     }
 
-    @inbook{MICAI,
-        Author = {Sergio. Khalil. {Bello García} and Eduardo. {S{\'a}nchez Lucero} and Edmundo. {Bonilla Huerta} and Jos{\'e}. Crispín. {Hern{\'a}ndez Hern{\'a}ndez} and Jos{\'e}. Federico. {Ramírez Cruz} and Blanca. Estela. {Pedroza M{\'e}ndez}},
-        Date-Added = {2021-08-22 17:10:58 -0500},
-        Date-Modified = {2021-08-22 17:27:06 -0500},
-        Publisher = {Springer International Publishing},
-        Series = {Lecture Notes in Artificial Intelligence},
-        Title = {Nahuatl Neural Machine Translation Using Attention Based Architectures: a Comparative Analysis for RNNs and Transformers as a Mobile Application Service},
-        Year = {2021}
+[MICAI-Springer](https://link.springer.com/chapter/10.1007%2F978-3-030-89820-5_10)
+
+    @InProceedings{10.1007/978-3-030-89820-5_10,
+        author="Bello Garc{\'i}a, Sergio Khalil
+        and S{\'a}nchez Lucero, Eduardo
+        and Bonilla Huerta, Edmundo
+        and Hern{\'a}ndez Hern{\'a}ndez, Jos{\'e} Crisp{\'i}n
+        and Ram{\'i}rez Cruz, Jos{\'e} Federico
+        and Pedroza M{\'e}ndez, Blanca Estela",
+        editor="Batyrshin, Ildar
+        and Gelbukh, Alexander
+        and Sidorov, Grigori",
+        title="Nahuatl Neural Machine Translation Using Attention Based Architectures: A Comparative Analysis for RNNs and Transformers as a Mobile Application Service",
+        booktitle="Advances in Soft Computing",
+        year="2021",
+        publisher="Springer International Publishing",
+        address="Cham",
+        pages="120--139",
+        isbn="978-3-030-89820-5"
     }
 
     @article{ISP-RAS,
